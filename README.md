@@ -1,3 +1,3 @@
 # test
 1 sa
-2 ad
+2 admin
